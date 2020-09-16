@@ -93,3 +93,8 @@ Small screen:
 
 Large screen:
 ![comparison page large screen](Images/comparison-lg.png)
+
+#### Data page
+
+Large screen:
+![data page large screen](Images/data-lg.png)
