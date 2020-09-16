@@ -98,3 +98,10 @@ Large screen:
 
 Large screen:
 ![data page large screen](Images/data-lg.png)
+
+#### Visualization pages
+
+You'll build four of these, one for each visualization. Here's an example of one:
+
+Large screen:
+![visualize page large screen](Images/visualize-lg.png)
