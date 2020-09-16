@@ -105,3 +105,8 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 ![visualize page large screen](Images/visualize-lg.png)
+
+#### Navigation menu
+
+Large screen:
+![nav menu large screen](Images/nav-lg.png)
