@@ -34,12 +34,12 @@ Large screen:
 #### Visualization pages
 
 Large screen:
-![visualize page large screen](Images/visualize-lg.png)
+![visualize page large screen](Images/06.png)
 
 #### Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![nav menu large screen](Images/08.png)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+![nav menu small screen](Images/09.png)
