@@ -12,8 +12,10 @@ Using HTML and CSS to create a dashboard to showing the analysis that done for l
 Large screen:
 ![Landing page large screen](Images/00.png)
 
+![Landing page](Images/01.png)
+
 Small screen:
-![Landing page small screen](Images/landing-sm.png)
+![Landing page small screen](Images/02.png)
 
 
 #### Comparisons page
