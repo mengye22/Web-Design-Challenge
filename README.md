@@ -21,16 +21,17 @@ Small screen:
 #### Comparisons page
 
 Large screen:
-![comparison page large screen](Images/comparison-lg.png)
+![comparison page large screen](Images/03.png)
+
+Small screen:
+![comparison page small screen](Images/04.png)
 
 #### Data page
 
 Large screen:
-![data page large screen](Images/data-lg.png)
+![data page large screen](Images/05.png)
 
 #### Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one:
 
 Large screen:
 ![visualize page large screen](Images/visualize-lg.png)
